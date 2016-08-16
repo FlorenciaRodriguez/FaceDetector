@@ -1,0 +1,8 @@
+java -jar faceDetector.jar args[0] args[1] args[2] args[3] args[4] args[5]
+
+args[0] path de la carpeta donde guarda la detección
+args[1] path del zip
+args[2] path del face Cascade
+Args[3] nombre de usuario de gmail
+args[4] pass
+args[5] email destino

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaMail/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/flycapture.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/opencv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/videoinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/videoinput-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DellPladema/Documents/Flor/ws/eclipse/FaceDetector/lib/JavaCV/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
